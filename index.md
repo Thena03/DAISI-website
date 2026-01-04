@@ -62,10 +62,12 @@ permalink: /
 
    <a
       href="https://thena03.github.io/ExcelEd/"
-      class="inline-block text-sm font-medium text-green-400 hover:underline"
+      class="inline-block mt-auto px-5 py-2 rounded-lg text-sm font-medium
+             border border-green-400 text-green-400
+             hover:bg-green-400 hover:text-slate-900 transition"
     >
-      Visit Website →
+      Visit Website 
     </a>
   </div>
-
+<br><br>
 </div>
