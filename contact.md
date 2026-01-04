@@ -21,7 +21,7 @@ permalink: /contact
       <!-- Email -->
     <div class="bg-slate-900 p-6 rounded-xl border border-slate-800 hover:border-green-400 transition">
         <h3 class="text-xl font-semibold text-slate-100 mb-2">📧 Email</h3>
-        <p class="text-slate-700">
+        <p class="text-slate-100">
           <a href="mailto:aamancioalsobrook@gmail.com" class="hover:text-slate-100 text-center">aamancioalsobrook@gmail.com</a>
         </p>
       </div>
@@ -29,7 +29,7 @@ permalink: /contact
  <!-- Social -->
 <div class="bg-slate-900 p-6 rounded-xl border border-slate-800 hover:border-green-400 transition">
         <h3 class="text-xl font-semibold text-slate-100 mb-2">🌐 Social</h3>
-        <p class="text-slate-700 space-y-1">
+        <p class="text-slate-100 space-y-1">
            <a href="https://www.linkedin.com/in/athena-a-alsobrook-133b731b0/"  class="hover:text-slate-100 block">LinkedIn</a>
           <a href="https://github.com/Thena03" class="hover:text-slate-100 block">GitHub</a>
         </p>
