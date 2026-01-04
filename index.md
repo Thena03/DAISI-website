@@ -6,7 +6,7 @@ permalink: /
 <!-- Title -->
 <div class="md:w-1/2 mx-auto mb-12">
   <h1 class="text-4xl md:text-5xl font-bold text-green-400 text-center mb-4">
-    DAISI Resources
+   <br> DAISI Resources
   </h1>
   <h2 class="text-sm md:text-base font-medium text-center text-slate-400">
     Resources created for DAISI students by Athena Amancio-Alsobrook
