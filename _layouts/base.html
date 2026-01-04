@@ -29,9 +29,9 @@
     }
   </script>
 
-  <!-- Favicon -->
-  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon-32x32.png">
-</head>
+  <!-- Favicon
+  <link rel="icon" type="image/png" sizes="32x32" href="/static/favicon-32x32.png">
+</head> -->
 
 <body class="bg-slate-950 text-slate-100 min-h-screen flex flex-col font-mono">
 
@@ -42,7 +42,10 @@
 
         <!-- Logo -->
         <a href="{{ '/' | relative_url }}" class="font-semibold text-green-400 text-sm">
-          daisi@resources<span class="animate-blink">▮</span>
+            <img src="{{ url_for('static', filename='images/university-of-miami-logo-png_seeklogo-211487.png') }}" 
+            alt="University of Miami Logo" 
+            class="h-8 w-auto"> <span>
+          daisi@resources<span class="animate-blink">▮</span> </span>
         </a>
 
         <!-- Desktop Menu -->
@@ -86,7 +89,9 @@
 
   <!-- ===== FOOTER ===== -->
   <footer class="border-t border-slate-800 text-slate-500 text-center py-6 text-xs">
-    &copy; {{ site.time | date: "%Y" }} Athena Amancio-Alsobrook · DAISI Resource Index
+    <img src="{{ url_for('static', filename='images/university-of-miami-logo-png_seeklogo-211487.png') }}" 
+    alt="University of Miami Logo" 
+    class="h-8 w-auto"> &copy; {{ site.time | date: "%Y" }} Athena Amancio-Alsobrook · DAISI Resource Index
   </footer>
 
   <!-- Mobile Menu Script -->

@@ -9,7 +9,7 @@ permalink: /
    <br> DAISI Resources
   </h1>
   <h2 class="text-sm md:text-base font-medium text-center text-slate-400">
-    Resources created for DAISI students by Athena Amancio-Alsobrook
+    Resources created for University of Miami DAISI students by Athena Amancio-Alsobrook
   </h2>
 </div>
 
