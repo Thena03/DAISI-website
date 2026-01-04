@@ -9,14 +9,13 @@ permalink: /
 
 <!-- Title -->
 <div class="md:w-1/2">
-<h1 class="text-4xl md:text-5xl font-bold text-slate-900 mb-4"> DAISI Resources </h1>
+<h1 class="text-4xl md:text-5xl font-bold text-white mb-4"> DAISI Resources </h1>
 <h2 class="text-xl md:text-2xl font-semibold text-white mb-4"> Resources created for DAISI students by Athena Amancio-Alsobrook
 </div>
-</div>
-</section>
+
 
 <!-- Resource Cards -->
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
 
   <!-- LearnR -->
   <div class="bg-white p-6 rounded-xl shadow hover:shadow-lg transition">
