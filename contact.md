@@ -6,7 +6,7 @@ permalink: /contact
 
 
 <!-- ===== CONTACT PAGE ===== -->
-<section class="py-16 bg-slate-50">
+<section class="py-16">
   <div class="max-w-4xl mx-auto px-6">
 <br><br>
  <!-- Header -->
