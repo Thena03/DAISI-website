@@ -10,10 +10,10 @@ permalink: /contact
   <div class="max-w-4xl mx-auto px-6">
 <br><br>
  <!-- Header -->
-<h2 class="text-3xl font-semibold text-center text-slate-900 mb-6">
+    <h2 class="text-3xl font-semibold text-center text-white mb-6">
       Contact Me
     </h2>
-    <p class="text-slate-700 mb-10">
+    <p class="text-white mb-10">
     For questions or inquiries, please contact Athena Amancio-Alsobrook. 
     </p>
  <!-- Contact Info -->
@@ -35,5 +35,4 @@ permalink: /contact
         </p>
       </div>
     </div>
-
 </section>
